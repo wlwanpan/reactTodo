@@ -16,7 +16,7 @@ var Navigation = () => {
                 </ul>
             </div>
             <div className="top-bar-right menu-text">
-                Created by <a href="" target="_blank">Warren Wan</a>
+                Created by <a href="https://github.com/wlwanpan/ReactTimerApp" target="_blank">Warren Wan</a>
             </div>
         </div>
     );
