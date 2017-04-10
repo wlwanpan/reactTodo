@@ -1,7 +1,7 @@
 
-###React App Biolerplate
+# React App Biolerplate
 
-## With DevDependencies: <br />
+## List of DevDependencies: <br />
   { <br />
     "babel-core": "^6.5.1", <br />
     "babel-loader": "^6.2.2", <br />
