@@ -5,9 +5,9 @@
 
 ## List of DevDependencies: <br />
   { <br />
-      - "babel-core": "^6.5.1", <br />
-      - "babel-loader": "^6.2.2", <br />
-      - "babel-preset-es2015": "^6.5.0", <br />
+      * "babel-core": "^6.5.1", <br />
+      * "babel-loader": "^6.2.2", <br />
+      * "babel-preset-es2015": "^6.5.0", <br />
       - "babel-preset-react": "^6.5.0", <br />
       - "babel-preset-stage-0": "^6.5.0",<br />
       - "css-loader": "^0.23.1", <br />
