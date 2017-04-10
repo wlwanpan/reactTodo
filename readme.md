@@ -1,5 +1,5 @@
 
-# React App Biolerplate
+# React App Biolerplate + testing
 
 ### Simply download the repo, run "npm install" and you are good to go.
 
