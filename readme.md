@@ -1,6 +1,8 @@
 
 # React App Biolerplate
 
+### Simply download the repo, run "npm install" and you are good to go.
+
 ## List of DevDependencies: <br />
   { <br />
     "babel-core": "^6.5.1", <br />
